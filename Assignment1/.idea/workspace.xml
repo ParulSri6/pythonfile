@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d4e2dc9-8585-495e-9e6b-c291992c9f50" name="Changes" comment="Module2" />
+    <list default="true" id="9d4e2dc9-8585-495e-9e6b-c291992c9f50" name="Changes" comment="Module2">
+      <change beforePath="$PROJECT_DIR$/../TestGit" beforeDir="false" afterPath="$PROJECT_DIR$/../TestGit" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
