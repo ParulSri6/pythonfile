@@ -1,0 +1,8 @@
+C:\Users\parul\PycharmProjects\pythonProject1\.venv\Scripts\python.exe C:\Users\parul\PycharmProjects\pythonProject1\HelloAssignment.py 
+Enter your name: Parul
+Enter your country: India
+Enter your School: CCTB
+Enter the location of your school: Vancouver
+My name is Parul. I'm from India studying at CCTB in Vancouver
+
+Process finished with exit code 0
